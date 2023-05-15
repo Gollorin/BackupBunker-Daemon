@@ -1,0 +1,17 @@
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\bin\Debug\net6.0\BackupBunker.exe
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\bin\Debug\net6.0\BackupBunker.deps.json
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\bin\Debug\net6.0\BackupBunker.runtimeconfig.json
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\bin\Debug\net6.0\BackupBunker.dll
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\bin\Debug\net6.0\BackupBunker.pdb
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.AssemblyInfo.cs
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.csproj.CopyComplete
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.dll
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\refint\BackupBunker.dll
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.pdb
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\BackupBunker.genruntimeconfig.cache
+C:\Users\simon\Desktop\BackupBunker\BackupBunker\BackupBunker\obj\Debug\net6.0\ref\BackupBunker.dll
